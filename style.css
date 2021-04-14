@@ -1,0 +1,23 @@
+body
+{
+    background: black;
+}
+.badge
+{
+    margin-top: 5px;
+}
+.btn
+{
+    margin-top: 15px;
+}
+
+.Title
+{
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.active {
+    background-color: rgb(65, 63, 63);
+    color: white;
+}
