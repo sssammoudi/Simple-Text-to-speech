@@ -36,7 +36,7 @@ if (synthesis.onvoiceschanged !== undefined) {
 
 function speak() {
     if (synthesis.speaking) {
-
+        return
     }
     let value = inputText.value
     if (value !== null && value !== '') {
